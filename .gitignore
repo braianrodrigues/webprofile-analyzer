@@ -1,0 +1,49 @@
+# =========================
+# Ambiente virtual
+# =========================
+venv/
+.env/
+.venv/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Logs e arquivos temporários
+# =========================
+*.log
+*.tmp
+
+# =========================
+# Arquivos do sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Arquivos do Selenium / sessão
+# =========================
+selenium_profile/
+
+# =========================
+# Configurações locais
+# =========================
+crop_coords_config.json
+
+# =========================
+# IDE / VSCode
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Build (caso gere .exe)
+# =========================
+dist/
+build/
+*.spec
