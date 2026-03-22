@@ -70,9 +70,9 @@ Demonstrar a construção de uma solução completa de automação web com proce
 
 ## 🔒 Observação
 
-Este projeto é uma versão demonstrativa baseada em uma aplicação utilizada em ambiente real.
+Este repositório é uma versão demonstrativa do sistema.
 
-Algumas funcionalidades foram adaptadas para fins de demonstração.
+A versão completa, utilizada em ambiente real, possui integrações e dados que não podem ser disponibilizados publicamente por questões de segurança e confidencialidade.
 
 ---
 
